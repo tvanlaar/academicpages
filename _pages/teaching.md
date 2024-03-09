@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 # {% include icon.html icon="fa-solid fa-person-chalkboard" %}Teaching
 
 Teaching is my favorite part of my job! Here you can find information about some of the classes I teach. I believe in the capabilities of all of my students and I am excited to help them reach their potential.
@@ -15,12 +22,12 @@ Teaching is my favorite part of my job! Here you can find information about some
   
 <b>Catalog Description</b>: Survey of experimental designs and investigative methods for graduate-level research.  Content will be tailored to research needs of enrolled students. Includes sampling schemes, modeling, ANOVA and multivariate analysis.  <br><br>
 <i>This course is co-taught with Dr. Michael Fleming</i>
-{% include section.html %}
+
 
 ## Previous Courses at Stanislaus State
 
 Coming soon
-{% include section.html %}
+
 
 ## Previous Courses at Fresno State
 
