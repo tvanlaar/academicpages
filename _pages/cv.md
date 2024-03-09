@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Van Laar CV](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)https://tvanlaar.github.io/pdfs/VanLaarCV.pdf
+[Van Laar CV](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)
