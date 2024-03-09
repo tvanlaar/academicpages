@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 Teaching is my favorite part of my job! Here you can find information about some of the classes I teach. I believe in the capabilities of all of my students and I am excited to help them reach their potential.
 
