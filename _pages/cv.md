@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://tvanlaar.github.io/pdfs/VanLaarCV.pdf" type="application/pdf" />
+[Van Laar CV](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)https://tvanlaar.github.io/pdfs/VanLaarCV.pdf
